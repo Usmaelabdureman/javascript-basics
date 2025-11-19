@@ -43,7 +43,7 @@ export default function Footer({ twitter, linkedin, github, bluesky }) {
             <p>Code Samples and Exercises Licensed Under Apache 2.0</p>
             <p>
               Site Designed by{" "}
-              <a href="https://www.alexdanielson.com/">Alex Danielson</a>
+              <a href="https://usmael.vercel.app/">Usmael Ab</a>
             </p>
           </div>
         </li>
