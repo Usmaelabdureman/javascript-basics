@@ -21,6 +21,6 @@
     "Frontend Masters",
     "Usmael A"
   ],
-  "productionBaseUrl": "esmizjs",
+  "productionBaseUrl": "",
   "csvPath": "./out/lessons.csv"
 }
