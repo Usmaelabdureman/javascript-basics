@@ -1,16 +1,16 @@
 {
   "author": {
-    "name": "Usmael A",
-    "company": "Fullstack Developer"
+    "name": "Usmael Ab",
+    "company": "Full-Stack Developer"
   },
   "title": "Getting Started with JavaScript",
   "subtitle": "Master the basics and learn to build web apps",
   "frontendMastersLink": "",
   "social": {
-    "linkedin": "usmael-a",
-    "github": "usmaela",
-    "twitter": "usmaela",
-    "bluesky": "usmael.dev"
+    "linkedin": "usmael-lkdn",
+    "github": "usmaelaabdureman",
+    "twitter": "esmiz_o",
+    "bluesky": "usmael"
   },
   "description": "A beginner-friendly JavaScript course by Usmael A to help you quickly grasp the fundamentals and start building modern web applications.",
   "keywords": [
@@ -21,6 +21,6 @@
     "Frontend Masters",
     "Usmael A"
   ],
-  "productionBaseUrl": "",
+  "productionBaseUrl": "esmizjs",
   "csvPath": "./out/lessons.csv"
 }
