@@ -41,13 +41,13 @@ Your job as a developer is to solve complex problems which means you will:
 
 The majority of programming is **debugging** and **problem-solving**.
 
-![Programming Cycle](/fem-getting-started-with-javascript/images/01-mindset/programming-cycle.svg)
+![Programming Cycle](/images/01-mindset/programming-cycle.svg)
 
 ## The Video "Magic" Isn't Real
 
 When you watch coding tutorials, it looks like the coder never makes mistakes. **This is not reality.**
 
-![Video vs Reality](/fem-getting-started-with-javascript/images/01-mindset/video-vs-reality.svg)
+![Video vs Reality](/images/01-mindset/video-vs-reality.svg)
 
 ### Behind the Scenes Truth:
 

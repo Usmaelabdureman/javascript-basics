@@ -28,7 +28,7 @@ When a browser loads a webpage, it follows a specific process:
 <script src="script.js"></script>
 ```
 
-![Normal JavaScript Loading Timeline](/fem-getting-started-with-javascript/images/03-running-javascript/normal-js-loading-timeline.svg)
+![Normal JavaScript Loading Timeline](/images/03-running-javascript/normal-js-loading-timeline.svg)
 
 ### What Happens
 
@@ -67,7 +67,7 @@ You may see code like the above to get around this problem.
 <script src="script.js" async></script>
 ```
 
-![Async JavaScript Loading Timeline](/fem-getting-started-with-javascript/images/03-running-javascript/async-js-loading-timeline.svg)
+![Async JavaScript Loading Timeline](/images/03-running-javascript/async-js-loading-timeline.svg)
 
 ### What Happens
 
@@ -93,7 +93,7 @@ You may see code like the above to get around this problem.
 <script src="script.js" defer></script>
 ```
 
-![Defer JavaScript Loading Timeline](/fem-getting-started-with-javascript/images/03-running-javascript/defer-js-loading-timeline.svg)
+![Defer JavaScript Loading Timeline](/images/03-running-javascript/defer-js-loading-timeline.svg)
 
 ### What Happens
 
@@ -114,4 +114,4 @@ You may see code like the above to get around this problem.
 
 ## Comparison
 
-![Comparison JavaScript Loading Timeline](/fem-getting-started-with-javascript/images/03-running-javascript/improved-js-loading-timeline.svg)
+![Comparison JavaScript Loading Timeline](/images/03-running-javascript/improved-js-loading-timeline.svg)

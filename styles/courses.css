@@ -199,6 +199,10 @@ header .cta-btn {
   color: var(--text-main-headers);
 }
 
+.lesson-section-title::before {
+  content: counter(my-awesome-counter) ". ";
+}
+
 .lesson-container {
   position: relative;
   max-width: 900px;

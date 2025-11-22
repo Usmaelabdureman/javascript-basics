@@ -17,6 +17,7 @@
   --bg-main: white;
   --bg-dots: var(--highlight);
   --bg-lesson: white;
+  --bg-footer: var(--primary);
 
   --nav-buttons: var(--highlight);
   --nav-buttons-text: white;
@@ -36,31 +37,32 @@
 }
 
 [data-theme="dark"] {
-  --primary: oklch(0.78 0.12 280);
-  --secondary: oklch(0.22 0.16 280);
-  --highlight: oklch(0.6 0.2 280);
+  --primary: oklch(0.96 0.03 280);
+  --secondary: oklch(0.22 0.16 240);
+  --highlight: #2cd8ff;
 
   --text-header: var(--primary);
   --text-main-headers: var(--highlight);
-  --text-links: oklch(0.7137 0.1434 254.624);
+  --text-links: #2cd8ff;
   --text-footer: var(--highlight);
 
   --lesson-text: oklch(0.85 0.01 0);
 
-  --bg-main: oklch(0.12 0.01 280);
+  --bg-main: oklch(0.12 0.01 240);
   --bg-dots: var(--highlight);
-  --bg-lesson: oklch(0.18 0.02 280);
+  --bg-lesson: oklch(0.18 0.02 240);
+  --bg-footer: black;
   --nav-buttons: var(--highlight);
-  --nav-buttons-text: oklch(0.08 0.02 156.039);
+  --nav-buttons-text: oklch(0.08 0.02 240);
   --nav-buttons-text-hover: var(--primary);
 
   --corner-active: var(--highlight);
-  --corner-inactive: oklch(0.2 0.01 280);
+  --corner-inactive: oklch(0.2 0.01 240);
   --icons: var(--highlight);
   --footer-icons: var(--highlight);
 
-  --emphasized-bg: oklch(0.2 0.06 280);
-  --emphasized-border: oklch(0.35 0.1 280);
+  --emphasized-bg: oklch(0.2 0.06 240);
+  --emphasized-border: oklch(0.35 0.1 240);
 
   --code-bg: #0d1117;
   --code-border: var(--emphasized-border);
